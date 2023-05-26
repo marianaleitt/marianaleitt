@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariana Leite  
 - 👀 I’m interested in photography 
-- 🌱 I’m currently learning AWS, C#, Python and PowerBI
+- 🌱 I’m currently learning AWS, C#, Asp.Net MVC and PowerBI
 - 💞️ I’m looking to collaborate on projects what need new people who wants to learn
 
 
